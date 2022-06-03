@@ -1,0 +1,10 @@
+====================================================
+                                                HASIL PERHITUNGAN LUAS LINGKARAN ANDA
+                                            ====================================================
+                                            Tanggal Perhitungan     : 2022-06-03 
+                                            Jam Perhitungan         : 05:22:32 
+                                            Nilai Jari-Jari         : 5 
+                                            Phi                     : 3.14
+                                            Rumus Luas Lingkaran    : Phi x Jari-Jari x Jari-Jari
+                                                                    3.14 x 5 x 5 
+                                            Luas Lingkaran          : 78.5

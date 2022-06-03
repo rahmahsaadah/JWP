@@ -1,0 +1,9 @@
+=============================================================================
+                                                            HASIL PERHITUNGAN LUAS PERSEGI ANDA
+                                            ==============================================================================
+                                            Tanggal Perhitungan     : 2022-06-03 
+                                            Jam Perhitungan         : 05:22:25 
+                                            Nilai Alas Segitiga     : 4 
+                                            Rumus Luas Segitiga     : Sisi x Sisi
+                                                                    4 x 4
+                                            Luas Segitiga           : 16
